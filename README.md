@@ -1,7 +1,7 @@
 
 # <h1 align=center> **`PROYECTO DE ANALISIS DE DATOS`** </h1>
 
-# <h1 align=center>**`Analitica del Mercado Gastronomía - Ocio en USA`**</h1>
+# <h1 align=center>**`Analisis del Mercado Gastronomico - Ocio en USA`**</h1>
 
 <p align="center">
     <img src="./src/portada4.jpeg"  height=500>
