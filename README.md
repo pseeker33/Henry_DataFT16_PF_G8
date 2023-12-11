@@ -220,14 +220,11 @@ El Sistema de Recomendación a diseñar tendra las siguientes caracteristicas:
 
 A continuación se presentan los 8 KPIs propuestos y sus métricas asociadas:
 
-1. Crecimiento anual de la cantidad de puntos nuevos creados por estado
-2. Porcentaje de crecimiento anual de la cantidad de puntos nuevos creados por tipo de comercio 
-3. Top 5 o 10 (por definir) de los comercios de mayor representatividad y mejor valorados por estado
-4. Top 10 de los aspectos a mejorar incluidos en las reseñas más importantes por comercio y clasificados estado  
-5. Aumentar la cantidad de reseñas por restautantes, bares, etc un 10% en forma anual con respecto al año anterior
-6. Aumentar un 5 % las reseñas positivas en forma anual con respecto al año anterior
-7. Aumentar el promedio de calificaciones de los restaurantes, bares, etc., en un 5% en forma anual con respecto al año anterior
-8. Reducir el tiempo promedio de respuesta a las reseñas de 24 horas a 12 horas con respecto al año anterior
+KPI 1: Aumentar las reseñas de usuarios nuevos en un 10% con respecto al año anterior  
+KPI 2: Aumentar la cantidad de restaurantes nuevos reseñados en un 5% con respecto al año anterior  
+KPI 3: Aumentar la cantidad de reseñas por restaurante en un 10% anual con respecto al año anterior  
+KPI 5: Aumentar el promedio de calificaciones de los restaurantes en un 5% con respecto al año anterior  
+KPI 6: Reducir en un 10% la cantidad de restaurantes de los que obtuvo reseñas negativas con respecto al año anterior  
 
 <span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
@@ -256,9 +253,19 @@ Los entregables de la semana 2 se encuentran en la carpeta Sprint_2:
     - [Google_metadatos_sitios.ipynb](Sprint_2/ETL_de_los_Datasets/Google_metadatos_sitios.ipynb)  
     - [Google_reviews_estados.ipynb](Sprint_2/ETL_de_los_Datasets/Google_reviews_estados.ipynb)   
     - [Yelp_datasets.ipynb](Sprint_2/ETL_de_los_Datasets/Yelp_datasets.ipynb) 
-- Carpeta del Modelo de ML: [Analisis_Exploratorio_Preliminar.ipynb](Sprint_2/Modelos_Machine_Learning/Analisis_Exploratorio_Preliminar.ipynb) 
+- Carpeta con subcarpetas de las implementaciones de la carga incremental  
+
+- Carpeta del Modelo de ML con los archivos de exploracion e implementacion:  
+    - [Analisis_Exploratorio_Preliminar.ipynb](Sprint_2/Modelos_Machine_Learning/Analisis_Exploratorio_Preliminar.ipynb) 
+    - [Analisis EDA.ipynb](Sprint_2/Modelos_Machine_Learning/Google_EDA.ipynb) 
+    - [main.py](Sprint_2/Modelos_Machine_Learning/main.py) 
+    - [main3.py](Sprint_2/Modelos_Machine_Learning/main3.py)
+    - [Un readme explicativo] (Sprint_2/Modelos_Machine_Learning/README.md)
+
+    - 
 - Diccionario de datos: [Diccionario_de_Datos.ipynb](Sprint_2/Diccionario_de_Datos.ipynb) 
  
+Los entregables de la semana 3 se encuentran en la carpeta Sprint_3:
 
 <span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
