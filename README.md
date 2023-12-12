@@ -74,7 +74,7 @@ Entonces nuestro objetivo es el de, a partir de dicha fuente de datos, y aplican
 
 ## 3. Roles
 
-Dentro de Iterable, conformamos un equipo de trabajo de seis personas encargado de sacar adelante el proyecto, asignando los roles especificos a cumplir por cada uno.
+Dentro de Iterable, conformamos un equipo de trabajo de cinco personas encargado de sacar adelante el proyecto, asignando los roles especificos a cumplir por cada uno.
 
 <br>
 
